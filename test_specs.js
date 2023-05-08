@@ -9,7 +9,8 @@
 // -Write specifications for all the tests that would be useful for that prompt.
 //     -Try to take any "edge cases," or unexpected circumstances, into account, and write test specs for them.
 //     -Try not to write extraneous tests!
-
+//
+//
 // Unit Tests:
 
 // 1. A function called "multiplication" that returns the product of the two input numbers.
@@ -59,7 +60,7 @@
 // When an user clicks "Checkout", it should prompt user an option to either continue checkout process as either "Guest", "Create an account", or "Login" to existing account.
 // When an user clicks "Checkout" without any item in the cart, it should inform or give option to the user to either continue shopping or exit out of existing account.
 // After "Checkout" as either guest or logged-in user, it should give an user option to modify the order such as quantity, remove, save for future order, continue shopping, etc.
-// After an user clikcs "Continue", prompt user for an user profile and payment information (either saved or user inputted) such as customer name, shipping address, billing address, payment options (credit card, debit card, e-check, etc.).
+// After an user clicks "Continue", prompt user for an user profile and payment information (either saved or user inputted) such as customer name, shipping address, billing address, payment options (credit card, debit card, e-check, etc.).
 // Before submission of payment, final preview of order with option to go back to previous page or continue shopping.
-// When an user clicks "Submit" for a paymnet, final page will show full information (customer name, shipping and billing address, payment method used with payment information, and confirmation number), return/refund policy, and exit to main page option.
+// When an user clicks "Submit" for a payment, final page will show full information (customer name, shipping and billing address, payment method used with payment information, and confirmation number), return/refund policy, and exit to main page option.
 // In case of Fast Food, an user has option for deliver or pickup order with time schedule.
